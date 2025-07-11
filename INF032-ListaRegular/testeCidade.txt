@@ -1,0 +1,5 @@
+Londres 110000
+Xangai 1000000
+Sao Paulo 400000
+Salvador 300000
+Nova Iorque 2400000
